@@ -4,7 +4,7 @@ from datetime import datetime
 
 # NewsAPI.org details
 NEWS_API_ENDPOINT = "http://newsapi.org/v2/everything"
-NEWS_API_KEY = "f65678ce99cc4c12baa233f70ee161df"
+NEWS_API_KEY = "XXXXXXX" #Use your own key
 
 def create_connection():
     """Creates and returns a connection to the database."""
