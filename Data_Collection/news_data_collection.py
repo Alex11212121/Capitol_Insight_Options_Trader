@@ -22,10 +22,7 @@ only_important_articles = "no"
 GOOGLE_NEWS_RSS_URL = "https://news.google.com/rss"
 
 CURRENTS_API_ENDPOINT = "https://api.currentsapi.services/v1/latest-news"
-CURRENTS_API_KEY = "pwJbzYsI1WeDVax8-XsywIFnipq_roq99H42W-o1pTANVv48"
-
-# Define a list of important keywords that might be related to significant events.
-
+CURRENTS_API_KEY = "XXXXXXXXX" #Use your own key
 
 
 GOOGLE_NEWS_RSS_ENDPOINT = "https://news.google.com/rss"
